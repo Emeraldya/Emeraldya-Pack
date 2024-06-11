@@ -1,0 +1,130 @@
+{
+    "providers": [
+        {
+            "type": "bitmap",
+            "file": "minecraft:icons/emerald8.png",
+            "ascent": 8,
+            "height": 8,
+            "chars": ["\uE001"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:icons/ruby8.png",
+            "ascent": 8,
+            "height": 8,
+            "chars": ["\uE002"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:icons/castle16.png",
+            "ascent": 12,
+            "height": 16,
+            "chars": ["\uE003"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:icons/heart8.png",
+            "ascent": 8,
+            "height": 8,
+            "chars": ["\uE006"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:icons/mana8.png",
+            "ascent": 8,
+            "height": 8,
+            "chars": ["\uE007"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:icons/player16.png",
+            "ascent": 12,
+            "height": 16,
+            "chars": ["\uE008"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:icons/emerald256.png",
+            "ascent": 8,
+            "height": 8,
+            "chars": ["\uE001"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:prefixs/vagabond_prefix.png",
+            "ascent": 8,
+            "height": 8,
+            "chars": ["\uE100"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:prefixs/voyageur_prefix.png",
+            "ascent": 8,
+            "height": 8,
+            "chars": ["\uE101"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:prefixs/aventurier_prefix.png",
+            "ascent": 8,
+            "height": 8,
+            "chars": ["\uE102"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:prefixs/pionnier_prefix.png",
+            "ascent": 8,
+            "height": 8,
+            "chars": ["\uE103"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:prefixs/protecteur_prefix.png",
+            "ascent": 8,
+            "height": 8,
+            "chars": ["\uE104"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:prefixs/gardien_prefix.png",
+            "ascent": 8,
+            "height": 8,
+            "chars": ["\uE105"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:prefixs/conquerant_prefix.png",
+            "ascent": 8,
+            "height": 8,
+            "chars": ["\uE106"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:prefixs/champion_prefix.png",
+            "ascent": 8,
+            "height": 8,
+            "chars": ["\uE107"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:prefixs/hero_du_village_prefix.png",
+            "ascent": 8,
+            "height": 8,
+            "chars": ["\uE108"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:prefixs/respo_prefix.png",
+            "ascent": 8,
+            "height": 8,
+            "chars": ["\uE119"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:prefixs/admin_prefix.png",
+            "ascent": 8,
+            "height": 8,
+            "chars": ["\uE120"]
+        }
+    ]
+}
