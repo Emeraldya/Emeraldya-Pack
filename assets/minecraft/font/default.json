@@ -2,6 +2,20 @@
     "providers": [
         {
             "type": "bitmap",
+            "file": "minecraft:gui/emeraldya/menu.png",
+            "ascent": 19,
+            "height": 256,
+            "chars": ["🕐"]
+        },
+        {
+            "type": "bitmap", 
+            "file": "minecraft:icons/pixel.png",
+            "ascent": -2000,
+            "height": -3,
+            "chars": ["七"]
+        },
+        {
+            "type": "bitmap",
             "file": "minecraft:icons/emerald8.png",
             "ascent": 8,
             "height": 8,
