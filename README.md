@@ -20,4 +20,4 @@ After the first run, your resource pack can then be accessed at this link:
 
 This will automatically download the latest release which you can serve to players using the setResourcePack function.
 
-For an example of a repository successfully using this flow, see https://github.com/flytegg/ls-christmas-rp.
+For an example of a repository successfully using this flow, see https://github.com/flytegg/ls-christmas-rp. pouet! 
